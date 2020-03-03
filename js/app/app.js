@@ -1,0 +1,1 @@
+let statisticApp = angular.module('statisticApp',[]);
